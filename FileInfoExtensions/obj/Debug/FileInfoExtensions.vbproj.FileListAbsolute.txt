@@ -1,0 +1,8 @@
+C:\Development\Libraries\FileInfoExtensions\FileInfoExtensions\bin\Debug\FileInfoExtensions.dll
+C:\Development\Libraries\FileInfoExtensions\FileInfoExtensions\bin\Debug\FileInfoExtensions.pdb
+C:\Development\Libraries\FileInfoExtensions\FileInfoExtensions\bin\Debug\FileInfoExtensions.xml
+C:\Development\Libraries\FileInfoExtensions\FileInfoExtensions\obj\Debug\FileInfoExtensions.Resources.resources
+C:\Development\Libraries\FileInfoExtensions\FileInfoExtensions\obj\Debug\FileInfoExtensions.vbproj.GenerateResource.Cache
+C:\Development\Libraries\FileInfoExtensions\FileInfoExtensions\obj\Debug\FileInfoExtensions.dll
+C:\Development\Libraries\FileInfoExtensions\FileInfoExtensions\obj\Debug\FileInfoExtensions.xml
+C:\Development\Libraries\FileInfoExtensions\FileInfoExtensions\obj\Debug\FileInfoExtensions.pdb
